@@ -1,0 +1,47 @@
+.icon-btn-column {
+    display: flex;
+    align-self: end;
+    padding-bottom: 5.7%;
+
+    .icon-btn {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+#user-edit-column-group #centered-control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+
+    .button {
+        padding-left: 7%;
+        padding-right: 7%;
+    }
+}
+
+#user-btns-column-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#delete-cancel-btn-column {
+    padding-left: 10%;
+
+    a {
+        width: 35%;
+        height: 110%;
+        padding-left: 15.23%;
+    }
+}
+
+#delete-confirm-btn-column {
+    padding-right: 10%;
+
+    a {
+        width: 35%;
+        height: 110%;
+    }
+}
